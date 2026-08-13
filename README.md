@@ -43,13 +43,6 @@ Integro modelos de lenguaje como **Claude** y **ChatGPT** en el flujo de trabajo
 
 ---
 
-### Actividad de contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigocgnz/rodrigocgnz/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### Proyectos destacados
 
